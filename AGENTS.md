@@ -44,5 +44,9 @@ This project builds an MCP SDK while learning Elixir. Prioritize:
 - Understanding functional programming concepts
 - Exploring Elixir's concurrency model with processes
 - Learning OTP patterns and behaviors
-- Following community best practices from Elixir documentation</content>
+- Following community best practices from Elixir documentation
+
+### MCP Development
+- Check https://modelcontextprotocol.io/llms.txt for accessing all MCP related documentation when building the MCP SDK
+- Refer to `docs/DEVELOPMENT_PLAN.md` for the comprehensive development roadmap and implementation phases</content>
 <parameter name="filePath">AGENTS.md
