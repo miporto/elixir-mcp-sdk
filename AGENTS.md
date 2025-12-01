@@ -47,6 +47,9 @@ This project builds an MCP SDK while learning Elixir. Prioritize:
 - Following community best practices from Elixir documentation
 
 ### MCP Development
+- **Protocol Version**: This SDK implements MCP protocol version `2025-11-25`
 - Check https://modelcontextprotocol.io/llms.txt for accessing all MCP related documentation when building the MCP SDK
+- Specification: https://modelcontextprotocol.io/specification/2025-11-25
+- Changelog: https://modelcontextprotocol.io/specification/2025-11-25/changelog
 - Refer to `docs/DEVELOPMENT_PLAN.md` for the comprehensive development roadmap and implementation phases</content>
 <parameter name="filePath">AGENTS.md
