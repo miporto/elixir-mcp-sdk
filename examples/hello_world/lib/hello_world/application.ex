@@ -9,7 +9,6 @@ defmodule Examples.HelloWorld.Application do
 
   @impl true
   def start(_type, _args) do
-
     children = [
       {Bandit, plug: Examples.HelloWorld.Server}
     ]
