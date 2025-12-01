@@ -1,6 +1,25 @@
-# ElixirMcpSdk
+# Elixir MCP SDK
 
-**TODO: Add description**
+An Elixir implementation of the Model Context Protocol (MCP) SDK. This SDK provides the building blocks for creating MCP servers and clients in Elixir.
+
+## Examples
+
+### Hello World HTTP Server
+
+A basic HTTP server example to demonstrate Elixir web development with Bandit:
+
+```bash
+# Run the example server (recommended)
+./examples/hello_world/run.sh
+
+# Or run directly (requires --no-halt to keep running)
+mix run --no-halt examples/hello_world/application.ex
+```
+
+The server will start on `http://localhost:4000` with the following endpoints:
+- `GET /hello` - Returns a greeting message
+- `GET /health` - Health check endpoint
+- `GET /*` - Returns 404 for other routes
 
 ## Installation
 
